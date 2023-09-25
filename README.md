@@ -1,5 +1,6 @@
 # Cloudflare Warp 翻墙教程，2023新手入门详细教程
-Cloudflare Warp 翻墙教程，无限流量，warp+bot机器人密钥
+Cloudflare Warp 翻墙教程，无限流量，warp+bot机器人密钥<br>
+视频教程：▶ https://youtu.be/W0SeMgm1slE
 
 ### 操作步骤：
 - 第一步：打开电报，获取Warp+ 密钥key：<a href="https://t.me/generatewarpplusbot" target="_blank">@generatewarpplusbot</a>
