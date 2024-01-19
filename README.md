@@ -1,4 +1,4 @@
-# Cloudflare Warp 翻墙教程，2023新手入门详细教程
+# Cloudflare Warp 翻墙教程，新手入门详细教程，免费VPN
 Cloudflare Warp 翻墙教程，无限流量，warp+bot机器人密钥<br>
 视频教程：▶ https://youtu.be/W0SeMgm1slE
 
