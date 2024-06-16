@@ -10,3 +10,5 @@ Cloudflare Warp 翻墙教程，无限流量，warp+bot机器人密钥<br>
 <br>美区 Apple ID 注册教程：https://github.com/kjfx/AppleID
 
 - 第三步：打开WARP客户端设置即可
+
+### Warp优选ip工具，支持ipv6优选和ipv4优选，<a href="https://github.com/kjfx/Warp/releases/download/ruanjian/Warp.yxip.zip" target="_blank">点击下载>></a>
